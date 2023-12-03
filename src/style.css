@@ -1,0 +1,31 @@
+/* fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+
+canvas {
+  margin: 0;
+  padding: 0;
+  left:0;
+  overflow: hidden;
+  z-index: -1;
+  position: fixed;
+  background-size: cover;
+  /* top should be 0 vh in mobile screen and 20 vh in other screens */
+  top: 0vh;
+}
+
+body{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family: 'Roboto', sans-serif;
+  background-color: transparent;
+  color:white;
+}
+html {
+  background-color:black;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  /* change the cursor to a circle  */
+  cursor:url(/public/cursor/icon.png), auto;
+
+}

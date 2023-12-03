@@ -1,0 +1,11 @@
+Model Information:
+* title:	Robot Hip Hop Dancing
+* source:	https://sketchfab.com/3d-models/robot-hip-hop-dancing-bedd2ba99e1840ff89d2bca4a3e0c276
+* author:	Walter Araujo (https://sketchfab.com/walteraraujo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Robot Hip Hop Dancing" (https://sketchfab.com/3d-models/robot-hip-hop-dancing-bedd2ba99e1840ff89d2bca4a3e0c276) by Walter Araujo (https://sketchfab.com/walteraraujo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

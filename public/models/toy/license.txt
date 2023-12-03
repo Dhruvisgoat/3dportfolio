@@ -1,0 +1,11 @@
+Model Information:
+* title:	Super Mario Toys
+* source:	https://sketchfab.com/3d-models/super-mario-toys-decdc4d6203c410993e9b0433f945e9a
+* author:	AM ARCHITECTURE (https://sketchfab.com/abir_sd)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Super Mario Toys" (https://sketchfab.com/3d-models/super-mario-toys-decdc4d6203c410993e9b0433f945e9a) by AM ARCHITECTURE (https://sketchfab.com/abir_sd) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
